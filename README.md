@@ -1,2 +1,2 @@
-# DENV_PHYLO
+# DENV-PHYLO
 Nextstrain for dengue genomic surveillance
